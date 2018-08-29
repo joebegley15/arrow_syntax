@@ -1,4 +1,3 @@
+var convert = arr => arr.map(element => element.length);
 
-	var convert = arr => arr.map(element => element.length);
-
-console.log(convert(['A','ac']))
+ console.log(convert(['A','ac']))
